@@ -1,0 +1,11 @@
+copied testimonies by copying element on site
+got rid of starting and trailing p tags, div tags for Smith testimony
+manually fix:
+removed Fink's objection and Court's response in smith
+sometimes the format deviates so manual corrections are made
+"come on in Al, we're waiting for you" ended up on a new line
+non ascii character in Rev. Hoover's testimony replaced with '
+Was there any reference made to any particular place in Stickney... in Rev. Hoover's testimony has no <br> between question and answer
+Court asks Rev. Hoover a question that isn't turned into {"prompt": "
+Stray ending </p> in Hoover's testimony
+ending </p> in Smith's testimony
