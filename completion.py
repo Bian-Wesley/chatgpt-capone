@@ -18,7 +18,7 @@ questions = [
     "Who is the defandant of this trial?",
     "Do you know Al Capone?",
     "On what year did the raid take place?",
-    "Please describe what you in this raid",
+    "Please describe what you did in this raid",
     "Does Al Capone own gambling enterprises?",
     "Is Al Capone a good man?",
     "Why did you participate in the citizen's raid on 4818 West 22nd Street?",
